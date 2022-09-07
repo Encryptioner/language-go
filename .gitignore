@@ -1,0 +1,7 @@
+.vscode/*
+!.vscode/*.example.json
+
+**/*.DS_Store*
+
+# ignore all aoutput files
+**/*/output.txt
