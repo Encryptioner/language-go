@@ -3,5 +3,5 @@
 .vscode/*
 !.vscode/*.example.json
 
-# ignore all aoutput files
+# ignore all output files
 **/*/output.txt
